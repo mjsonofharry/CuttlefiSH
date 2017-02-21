@@ -1,2 +1,2 @@
 # CuttlefiSH
-Simple Linux shell that raids /etc/bin when it can't find it's own programs
+Simple Linux shell that raids /etc/bin when it cannot find its own programs
